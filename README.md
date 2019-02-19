@@ -5,7 +5,7 @@ To analyse the ConceptNet Word Embeddings for Pictionary game purpose
 - Clone the repository
 - Download this PreTrained word-embeddings:
   - Download link: https://conceptnet.s3.amazonaws.com/downloads/2017/numberbatch/numberbatch-17.06.txt.gz
-- Extract the above file and place it in the folder in Analysis-of-ConceptNet-Word-Embeddings/data/
+- Extract the above and place the file in it named "numberbatch-en-17.06.txt" in the folder in Analysis-of-ConceptNet-Word-Embeddings/data/
 
 ### Few Resources that I used for concept-Net's word-embeddings 'NumberBatch'
 - Github Repo: https://github.com/commonsense/conceptnet-numberbatch
