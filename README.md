@@ -6,3 +6,4 @@ To analyse the ConceptNet Word Embeddings for Pictionary game purpose
 - PreTrained word-embeddings Download link: https://conceptnet.s3.amazonaws.com/downloads/2017/numberbatch/numberbatch-17.06.txt.gz
 
 ### Link used for implementing Tensorboard visualization of this word embeddings
+- https://stackoverflow.com/questions/50492676/visualize-gensim-word2vec-embeddings-in-tensorboard-projector
